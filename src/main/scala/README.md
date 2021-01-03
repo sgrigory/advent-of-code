@@ -1,1 +1,1 @@
-Solutions for Advent of Code 2020 in Scala
+# Scala solutions for Advent of Code 2020
